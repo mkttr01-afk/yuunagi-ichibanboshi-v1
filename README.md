@@ -5,7 +5,7 @@
 ## ダウンロード
 **[最新版のダウンロードはこちら（Releases）](https://github.com/mkttr01-afk/yuunagi-ichibanboshi-v1/releases/latest)**
 
-ページの下の **Assets** から `YunaginochiIchibanboshi_v1.0.2.zip` をダウンロードし、展開したフォルダの `YunaginochiIchibanboshi.exe` を実行してください。インストールは要りません。
+ページの下の **Assets** から `YunaginochiIchibanboshi_v1.0.3.zip` をダウンロードし、展開したフォルダの `YunaginochiIchibanboshi.exe` を実行してください。インストールは要りません。
 
 初回の起動で「Windows によって PC が保護されました」と出たときは、「詳細情報」→「実行」で起動できます。
 
